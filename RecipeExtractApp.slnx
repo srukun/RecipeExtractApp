@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="RecipeExtractApp.Api/RecipeExtractApp.Api.csproj" Id="d9af9b2c-e94c-497e-92f2-2b8263ab753e" />
+    <Project Path="RecipeExtractApp.Application/RecipeExtractApp.Application.csproj" Id="00268092-3b51-45b0-afe8-1ec03f58aadb" />
+    <Project Path="RecipeExtractApp.Domain/RecipeExtractApp.Domain.csproj" Id="a3fbc15d-cecd-4276-b164-e1892e640760" />
+    <Project Path="RecipeExtractApp.Infrastructure/RecipeExtractApp.Infrastructure.csproj" Id="663a1fed-3881-418a-a470-415d99ddfb53" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="RecipeExtractApp.UnitTests/RecipeExtractApp.UnitTests.csproj" Id="3c44081c-dc7e-4b99-9154-e62ed7c11f58" />
+  </Folder>
+</Solution>
